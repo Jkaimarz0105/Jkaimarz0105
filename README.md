@@ -1,6 +1,6 @@
-<h1>Hi, I'm Jared! I am passionate about all things related to Cybersecurity!
+<h1>Hi, I'm Jared! I am passionate about all things related to Software Development!
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Front-End Development Projects:</h2>
 
 - <b>Azure/Cloud Projects</b>
   - [Creating a Live SOC/Honeynet in Azure](https://github.com/Jkaimarz0105/Azure-SOC)
