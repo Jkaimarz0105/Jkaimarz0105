@@ -2,6 +2,7 @@
 
 <h2>👨‍💻Projects:</h2>
 
-<h3>https://github.com/Jkaimarz0105/Azure-SOC</h3>
+<h3>Home Lab: Azure Honeynet SOC Environment</h3>
+<h4>https://github.com/Jkaimarz0105/Azure-SOC</h4>
   
 
